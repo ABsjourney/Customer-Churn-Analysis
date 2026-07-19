@@ -17,7 +17,7 @@ To get the dashboard actually working I leaned on:
 ## See the Dashboard 📊  
 I added a quick preview right below, so you can get the vibe without downloading anything.
 
-![Dashboard Preview](churn analysis dashboard.png)
+![Dashboard Preview](churn%analysis%dashboard.png)
 
 ---
 *Honestly I’m pretty proud of this being my first project. If you have thoughts , or tips on how to refine my DAX logic or the overall dashboard look, I’d really like to hear it.
