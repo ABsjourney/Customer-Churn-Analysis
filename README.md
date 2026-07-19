@@ -20,6 +20,6 @@ I added a quick preview right below, so you can get the vibe without downloading
 ![Dashboard Preview](Dashboard_Preview.png)
 
 ---
-*Honestly I’m pretty proud of this being my first project. If you have thoughts , or tips on how to refine my DAX logic or the overall dashboard look, I’d really like to hear it!*
-👍 The output content is human-written.
+*Honestly I’m pretty proud of this being my first project. If you have thoughts , or tips on how to refine my DAX logic or the overall dashboard look, I’d really like to hear it.
+
 
