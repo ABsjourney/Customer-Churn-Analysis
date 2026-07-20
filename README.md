@@ -20,7 +20,7 @@ I added a quick preview right below, so you can get the vibe without downloading
 ![Dashboard Preview](churn%20analysis%20dashboard.png)
 ## Project File 📁
 Feel free to download the full Power BI file to explore my data model and DAX measures:
-[Download Project File](CHURN ANALYSIS DASHBOARD COMPLETE.pbix)
+[Download Project File](CHURN%20ANALYSIS%20DASHBOARD%20COMPLETE.pbix)
 ---
 *Honestly I’m pretty proud of this being my first project. If you have thoughts , or tips on how to refine my DAX logic or the overall dashboard look, I’d really like to hear it.
 
